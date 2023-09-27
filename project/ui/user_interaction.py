@@ -6,3 +6,4 @@ number_of_mines = input(name + ", for board size " + board_size + ", choose numb
 print(name + ", the board size is: "+board_size+", number of mines is: "+number_of_mines + ". ENJOY!")
 board_size = int(board_size)
 number_of_mines = int(number_of_mines)
+
